@@ -1,4 +1,4 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
+# Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
 I am a former tech founder, a full-stack developer by heart, technical product manager by day, and a lot of other things in between. 
 
@@ -19,18 +19,9 @@ Since I did not study Computer Science, but rather Business Administration, my w
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/jekuer) 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/jekuer) 
 
-
-<!--
-**jekuer/jekuer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Fun facts
+- I spent some time producing short movies in the past.
+- I wrote a professional screenplay.
+- I went through a crazy failed startup adventure ([read the article](https://entrepreneurshandbook.co/my-full-movie-like-founder-story-without-the-happy-end-6f50ae5ecf9f)).
+- I am always open for stupid fun projects like [asknobody.com](https://asknobody.com/).
+- 
