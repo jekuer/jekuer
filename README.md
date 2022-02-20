@@ -10,7 +10,7 @@ Since I did not study Computer Science, but rather Business Administration, my w
 <br> 
 
 ## 🔭 Explore 
-- my public Open Source repositories below.
+- my popular open-source repositories below.
 - my Medium posts.
 - my personal website with some more background information.
 - my LinkedIn profile for the more professional CV.
