@@ -2,7 +2,7 @@
 
 I am a [former tech founder](https://entrepreneurshandbook.co/my-full-movie-like-founder-story-without-the-happy-end-6f50ae5ecf9f), a full-stack developer by heart, technical product manager by day, and a lot of other things in between. 
 
-At the age of 12, I've started coding and never let go. 
+In 2000, at the age of 12, I've started coding and never let go. 
 Since I did not study Computer Science, but rather Business Administration, my work is always focused on getting things done from a project's point of view. 🤓🚀
 
 <br> 
