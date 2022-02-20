@@ -5,9 +5,9 @@ I am a former tech founder, a full-stack developer by heart, technical product m
 At the age of 12, I've started coding and never let go. 
 Since I did not study Computer Science, but rather Business Administration, my work is always focused on getting things done from a project's point of view. 🤓🚀
 
-| 
+<br> 
 
-| 
+<br> 
 
 ## 🔭 Explore 
 - my public repositories.
@@ -15,9 +15,7 @@ Since I did not study Computer Science, but rather Business Administration, my w
 - my personal website with some more background information.
 - my LinkedIn profile for the more professional CV.
 
-| 
-
-| 
+<br> 
 
 ## 🔗 Links
 
@@ -27,9 +25,9 @@ Since I did not study Computer Science, but rather Business Administration, my w
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/jekuer) 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/jekuer) 
 
-| 
+<br> 
 
-| 
+<br> 
 
 ## ⚡ Fun facts
 - I spent some time producing short movies in the past.
