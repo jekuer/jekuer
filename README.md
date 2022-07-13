@@ -1,4 +1,4 @@
-# Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29">
+# Hey there! <img src="https://github.com/jekuer/jekuer/blob/main/hello.webp?raw=true" width="29">
 
 I am a [former tech founder](https://entrepreneurshandbook.co/my-full-movie-like-founder-story-without-the-happy-end-6f50ae5ecf9f), a full-stack developer by heart, technical product manager by day, and a lot of other things in between. 
 
