@@ -11,7 +11,6 @@ Since I did not study Computer Science, but rather Business Administration, my w
 
 ## 🔭 Explore 
 - my popular open-source repositories below.
-- my Medium posts.
 - my personal website with some more background information.
 - my LinkedIn profile for the more professional CV.
 
@@ -20,6 +19,5 @@ Since I did not study Computer Science, but rather Business Administration, my w
 ## 🔗 Links
 
 [![Website](https://img.shields.io/badge/Website-3e4d64?style=for-the-badge&logoColor=white)](https://jenskuerschner.de/) 
-[![Medium](https://img.shields.io/badge/Medium-00ab6c?style=for-the-badge&logo=medium&logoColor=white)](https://jenskuerschner.medium.com/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jenskuerschner) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/jekuer) 
+[![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/jekuer) 
