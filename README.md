@@ -20,4 +20,4 @@ Since I did not study Computer Science, but rather Business Administration, my w
 
 [![Website](https://img.shields.io/badge/Website-3e4d64?style=for-the-badge&logoColor=white)](https://jenskuerschner.de/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jenskuerschner) 
-[![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/jekuer) 
+[![X](https://img.shields.io/badge/%40jekuer-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jekuer) 
